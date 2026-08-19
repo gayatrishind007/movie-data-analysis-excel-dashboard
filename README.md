@@ -1,12 +1,12 @@
-🎬 Movie Data Analysis & Interactive Excel Dashboard
+# Movie Data Analysis & Interactive Excel Dashboard
 
-Project Overview
+## Project Overview
 
 This project analyzes **3,700+ movie records** using Microsoft Excel to identify trends and patterns across movie genres, languages, ratings, IMDb scores, revenue, directors, and release years.
 
 An interactive Excel dashboard was created using **PivotTables, PivotCharts, and data visualization** to present the analysis in an easy-to-understand format.
 
-Project Objectives
+## Project Objectives
 
 * Analyze movie distribution across different genres.
 * Compare gross revenue across movie genres.
@@ -16,7 +16,7 @@ Project Objectives
 * Compare directors based on revenue and IMDb performance.
 * Build an interactive dashboard to present key insights.
 
-Tools & Skills
+## Tools & Skills
 
 * **Microsoft Excel**
 * **PivotTables**
@@ -26,7 +26,8 @@ Tools & Skills
 * **Data Visualization**
 * **Dashboard Development**
 
-Dataset
+## Dataset
+
 The dataset contains **3,700+ movie records** with information including:
 
 * Movie Title
@@ -44,34 +45,46 @@ The dataset contains **3,700+ movie records** with information including:
 * Budget
 * Release Year
 
- Analysis Performed
+## Analysis Performed
 
-Movies by Genre
+### Movies by Genre
+
 Analyzed the number of movies across different genres to understand the distribution of movies by category.
 
-Gross Revenue by Genre
+### Gross Revenue by Genre
+
 Compared gross revenue across movie genres to identify commercially strong categories.
 
-IMDb Rating Analysis
+### IMDb Rating Analysis
+
 Analyzed average IMDb ratings across different release years to identify rating trends over time.
 
-Movies by Language
+### Movies by Language
+
 Explored the distribution of movies across different languages.
 
-Movies by Release Year
+### Movies by Release Year
+
 Analyzed the number of movies released over different years to identify production trends.
 
-Director Analysis
+### Director Analysis
+
 Compared directors based on movie revenue and IMDb scores.
 
-Movie Rating Distribution
+### Movie Rating Distribution
+
 Analyzed the distribution of movies across different content ratings.
 
-Dashboard
-The Excel dashboard combines multiple analyses and visualizations to provide an overview of movie trends and performance.
-A dashboard screenshot will be added to this repository.
+## Dashboard
 
-Key Insights
+The Excel dashboard combines multiple analyses and visualizations to provide an overview of movie trends and performance.
+
+### Dashboard Preview
+
+![Movie Dashboard](dashboard.png)
+
+## Key Insights
+
 The analysis helps identify:
 
 * High-performing movie genres based on revenue.
@@ -81,7 +94,7 @@ The analysis helps identify:
 * Directors with strong revenue and IMDb performance.
 * Patterns in movie ratings.
 
-📂 Project Files
+## Project Files
 
 ```text
 Movie-Data-Analysis-Excel-Dashboard/
@@ -92,7 +105,8 @@ Movie-Data-Analysis-Excel-Dashboard/
     └── dashboard.png
 ```
 
-Skills Demonstrated
+## Skills Demonstrated
+
 This project demonstrates practical experience in:
 
 * Data Analysis
@@ -104,8 +118,9 @@ This project demonstrates practical experience in:
 * Exploratory Data Analysis
 * Business Insights
 
-👤 Author
+## 👤 Author
 
 Gayatri Shinde
 
 Aspiring Data Analyst | Excel | Power BI | Data Analytics
+
