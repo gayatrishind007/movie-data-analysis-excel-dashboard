@@ -85,14 +85,12 @@ The Excel dashboard combines multiple analyses and visualizations to provide an 
 
 ## Key Insights
 
-The analysis helps identify:
-
-* High-performing movie genres based on revenue.
-* Changes in movie production across different years.
-* Trends in average IMDb ratings.
-* Distribution of movies across languages and genres.
-* Directors with strong revenue and IMDb performance.
-* Patterns in movie ratings.
+- Analyzed **3,725 movies** across multiple genres, languages, countries, and ratings.
+- The dataset covers movies from **46 countries**, providing a broad view of international movie production.
+- The overall average IMDb rating across the dataset is **6.46**.
+- Total gross revenue across the analyzed movies is approximately **185B**.
+- Identified genre-wise differences in movie volume and gross revenue.
+- Observed changes in movie production volume and average IMDb ratings across release years.
 
 ## Project Files
 
